@@ -1,6 +1,7 @@
 # Event
     - IT Class
     - Pengabdian Masyarakat
+    - Talking Techno
 
 # Project
     - Company Profile
