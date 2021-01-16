@@ -1,6 +1,7 @@
 # Event
     - IT Class
     - Pengabdian Masyarakat
+    - Local Pride
 
 # Project
     - Company Profile
