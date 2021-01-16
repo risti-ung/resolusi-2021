@@ -2,6 +2,7 @@
     - IT Class
     - Pengabdian Masyarakat
     - Local Pride
+    - Talking Techno
 
 # Project
     - Company Profile
