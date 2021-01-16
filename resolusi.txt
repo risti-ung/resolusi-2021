@@ -6,4 +6,5 @@
     - Leader Policy
 
 # Project
-    - Company Profile
+    - Programming: Website Company Profile
+    - Cinema: Power of Local Tech
