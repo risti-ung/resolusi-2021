@@ -10,3 +10,4 @@
 # Project
     - Programming: Website Company Profile
     - Cinema: Power of Local Tech
+    - Humas: IT Activist Branding
