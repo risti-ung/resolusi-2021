@@ -1,6 +1,7 @@
 # Event
     - IT Class
-    - Pengabdian Masyarakat
+    - Go To Village
+    - IT Race
     - Local Pride
     - Talking Techno
     - Leader Policy
