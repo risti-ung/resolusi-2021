@@ -4,6 +4,8 @@
     - Local Pride
     - Talking Techno
     - Leader Policy
+    - Little Invest
+    - Talking Smart City, Smart People
 
 # Project
     - Programming: Website Company Profile
